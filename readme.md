@@ -1,4 +1,4 @@
-# PhD opportunities
+# Awesome PhD opportunities (update at 6/22/2024)
 
 This repository aims to advertise PhD recruitment opportunities to reduce the information gap and promote academic equality.
 
@@ -15,7 +15,7 @@ We welcome professors to share recruitment information. Specific requirements an
 
 # 招生分类
 
-## 机器人(Robotics)
+## 机器人相关(Robotics)
 
 1. [Istituto Italiano di Tecnologia, Claudio Semini](./Robotics/IIT-1.md)
 2. [Istituto Italiano di Tecnologia, Lorenzo Natale](./Robotics/IIT-2.md)
@@ -25,4 +25,7 @@ We welcome professors to share recruitment information. Specific requirements an
 6. [SouthAmpton](./Robotics/SouthAmpton.md)
 
 
-
+## 计算机科学(Computer Science)
+1. [USF（南佛罗里达大学）](./Computer%20Science/USF.md)
+2. [UTS（悉尼科技大学）](./Computer%20Science/USF.md)
+3. [PKU（北京大学）](./Computer%20Science/PKU.md)
