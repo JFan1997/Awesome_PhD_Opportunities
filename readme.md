@@ -10,8 +10,8 @@ We welcome professors to share recruitment information. Specific requirements an
 
 
 此存储库旨在宣传博士生招聘机会，以缩小信息差距并促进学术平等。
-
 欢迎教授们分享招聘信息。具体的招生要求和介绍可以以Markdown格式提交。
+持续更新中....
 
 # 招生分类
 
