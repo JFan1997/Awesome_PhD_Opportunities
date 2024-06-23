@@ -35,10 +35,6 @@ We welcome professors to share recruitment information. Specific requirements an
 2. [UTS（悉尼科技大学）](./Computer%20Science/USF.md)
 3. [PKU（北京大学）](./Computer%20Science/PKU.md)
 4. [NJIT（新泽西理工学院）](./Computer%20Science/NJIT.md)
-7. [University of Melbourne 墨尔本大学](./Computer%20Science/University%20of%20Melbourne.md)
-
-
-
 ## PostDoc
 1. [Clermont Auvergne INP Clermont (France)](./PostDoc-Robotics/Clermont_Auvergne_INP.md)
 
