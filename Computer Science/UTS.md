@@ -1,12 +1,10 @@
 # University of Technology Sydney
 
-![UTS Image](image_link_here)
 
 The University of Technology Sydney (UTS) is a public research university located in Sydney, New South Wales, Australia. The university was founded in its current form in 1988, though its origins as a technical institution can be traced back to the 1870s. In QS2024, UTS is ranked as #90 globally and #1 Young University in Australia.
 
 **悉尼科技大学**
 
-![UTS Image](image_link_here)
 
 悉尼科技大学（University of Technology Sydney，简称UTS）是一所位于澳大利亚新南威尔士州悉尼市的公立研究型大学。该大学于1988年以现有形式成立，但其作为技术机构的起源可以追溯到19世纪70年代。在QS2024中，UTS全球排名第90，是澳大利亚排名第一的年轻大学。
 
