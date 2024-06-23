@@ -1,6 +1,6 @@
------------------------------------------------------------------------------
+
 # 2 Open PhD Positions at IIT's Dynamic Legged Systems Lab
------------------------------------------------------------------------------
+
 
 The Dynamic Legged Systems Lab at the Istituto Italiano di Tecnologia (IIT), an English language Institute, is looking for outstanding candidates for 2 open PhD positions who will be involved in ongoing *space robotics, learning, and loco-manipulation research* towards *versatile all-terrain legged robots*. We focus on the theoretical as well as the practical aspects of legged robots, with applications in the fields of space robotics, precision agriculture, inspection, and disaster response.
 
