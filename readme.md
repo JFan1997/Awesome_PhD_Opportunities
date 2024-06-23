@@ -46,3 +46,8 @@ We welcome professors to share recruitment information. Specific requirements an
 
 ## PostDoc
 1. [Clermont Auvergne INP Clermont (France)](./PostDoc-Robotics/Clermont_Auvergne_INP.md)
+
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=jfan1997/Awesome_PhD_Opportunities&type=Date)](https://star-history.com/#jfan1997/Awesome_PhD_Opportunities&Date)
