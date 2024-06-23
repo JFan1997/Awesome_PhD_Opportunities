@@ -8,12 +8,12 @@ We welcome professors to share recruitment information. Specific requirements an
 
 
 
-
 # PhD招生机会分享
 
 此存储库旨在宣传博士生招聘机会，以缩小信息差距并促进学术平等。
 欢迎教授们分享招聘信息。具体的招生要求和介绍可以以Markdown格式提交。
 持续更新中...
+
 *信息收集于互联网公开页面。如果您的职位已经招满，或者您不希望被列入，请发邮件联系我删除。*
 
 
@@ -23,14 +23,14 @@ We welcome professors to share recruitment information. Specific requirements an
 
 1. [Istituto Italiano di Tecnologia, Claudio Semini | 意大利技术研究院, Claudio Semini](./Robotics/IIT-1.md) **DDL: 9/JULY/2024** 
 2. [Istituto Italiano di Tecnologia, Lorenzo Natale | 意大利技术研究院, Lorenzo Natale](./Robotics/IIT-2.md) **DDL: 9/JULY/2024**
-3. [Tallinn University of Technology, Centre for Biorobotics | 塔林理工大学, 生物机器人中心](./Robotics/Tallinn%20University%20of%20Technology.md) **DDL:  Not Known**
+3. [Tallinn University of Technology, Centre for Biorobotics | 塔林理工大学, 生物机器人中心](./Robotics/Tallinn%20University%20of%20Technology.md)    
 4. [SAPIENZA UNIVERSITY OF ROME | 罗马萨皮恩扎大学](./Robotics/SAPIENZA%20UNIVERSITY%20OF%20ROME.md)
-5. [IRI | 机器人研究所](./Robotics/IRI.md) **DDL: July 10th, 2024**
-6. [SouthAmpton | 南安普顿大学](./Robotics/SouthAmpton.md) **DDL: Until filled**
-7. [KU Leuven | 鲁汶大学](./Robotics/Leuven.md) **DDL: Not known**
-8. [the University of Genoa|热那亚大学](./Robotics/the%20University%20of%20Genoa.md) DDL: July 9, 2024
-9. [the University of Amsterdam|阿姆斯特丹大学](./Robotics/Vrije_Universiteit_Amsterdam_Combined.md) 
-10. [Oregon State University| 俄勒冈州立大学](./Robotics/Oregon%20State%20University.md) **DDL: Until filled**
+5. [IRI | 机器人研究所](./Robotics/IRI.md)    **DDL: July 10th, 2024**
+6. [SouthAmpton | 南安普顿大学](./Robotics/SouthAmpton.md)    **DDL: Until filled**
+7. [KU Leuven | 鲁汶大学](./Robotics/Leuven.md)    
+8. [the University of Genoa|热那亚大学](./Robotics/the%20University%20of%20Genoa.md)    **DDL: July 9, 2024**
+9. [the University of Amsterdam|阿姆斯特丹大学](./Robotics/Vrije_Universiteit_Amsterdam_Combined.md)  
+10. [Oregon State University| 俄勒冈州立大学](./Robotics/Oregon%20State%20University.md)    **DDL: Until filled**
 
 
 
