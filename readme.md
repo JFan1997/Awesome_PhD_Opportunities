@@ -38,7 +38,6 @@ We welcome professors to share recruitment information. Specific requirements an
 5. [University of Alabama(阿拉巴马大学)](./Computer%20Science/University%20of%20Alabama.md)
 6. [W&M（威廉玛丽学院）](./Computer%20Science/W&M.md)
 7. [University of Melbourne 墨尔本大学](./Computer%20Science/University%20of%20Melbourne.md)
-8. [Stony Brook University  石溪大学](./Computer%20Science/StonyBrook.md)
 
 
 
