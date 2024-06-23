@@ -11,7 +11,7 @@ We welcome professors to share recruitment information. Specific requirements an
 
 此存储库旨在宣传博士生招聘机会，以缩小信息差距并促进学术平等。
 欢迎教授们分享招聘信息。具体的招生要求和介绍可以以Markdown格式提交。
-持续更新中....
+持续更新中...
 
 # 招生分类
 
@@ -24,6 +24,7 @@ We welcome professors to share recruitment information. Specific requirements an
 5. [IRI | 机器人研究所](./Robotics/IRI.md)
 6. [SouthAmpton | 南安普顿大学](./Robotics/SouthAmpton.md)
 7. [KU Leuven | 鲁汶大学](./Robotics/Leuven.md)
+8. [the University of Genoa|热那亚大学](./Robotics/the%20University%20of%20Genoa.md)
 
 
 ## 计算机科学(Computer Science)
@@ -33,3 +34,7 @@ We welcome professors to share recruitment information. Specific requirements an
 4. [NJIT（新泽西理工学院）](./Computer%20Science/NJIT.md)
 5. [University of Alabama(阿拉巴马大学)](./Computer%20Science/University%20of%20Alabama.md)
 6. [W&M（威廉玛丽学院）](./Computer%20Science/W&M.md)
+
+
+## PostDoc
+1. [Clermont Auvergne INP Clermont (France)](./PostDoc-Robotics/Clermont_Auvergne_INP.md)
