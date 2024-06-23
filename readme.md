@@ -4,7 +4,7 @@ This repository aims to advertise PhD recruitment opportunities to reduce the in
 
 We welcome professors to share recruitment information. Specific requirements and introductions can be contributed in Markdown format.
 
-*Information collected from publicly available web pages. If your position has been filled or you prefer not to be listed, please contact me via email for removal.*
+***Information collected from publicly available web pages. If your position has been filled or you prefer not to be listed, please contact me via email for removal.***
 
 
 
@@ -14,7 +14,7 @@ We welcome professors to share recruitment information. Specific requirements an
 欢迎教授们分享招聘信息。具体的招生要求和介绍可以以Markdown格式提交。
 持续更新中...
 
-*信息收集于互联网公开页面。如果您的职位已经招满，或者您不希望被列入，请发邮件联系我删除。*
+***信息收集于互联网公开页面。如果您的职位已经招满，或者您不希望被列入，请发邮件联系我删除。***
 
 
 # 招生分类
