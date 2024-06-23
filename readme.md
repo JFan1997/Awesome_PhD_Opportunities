@@ -27,7 +27,7 @@ We welcome professors to share recruitment information. Specific requirements an
 8. [the University of Genoa|热那亚大学](./Robotics/the%20University%20of%20Genoa.md)
 9. [the University of Amsterdam|阿姆斯特丹大学](./Robotics/Vrije_Universiteit_Amsterdam_Combined.md)
 10. [Oregon State University| 俄勒冈州立大学](./Robotics/Oregon%20State%20University.md)
-11. 
+
 
 
 ## 计算机科学(Computer Science)
@@ -38,7 +38,6 @@ We welcome professors to share recruitment information. Specific requirements an
 5. [University of Alabama(阿拉巴马大学)](./Computer%20Science/University%20of%20Alabama.md)
 6. [W&M（威廉玛丽学院）](./Computer%20Science/W&M.md)
 7. [University of Melbourne 墨尔本大学](./Computer%20Science/University%20of%20Melbourne.md)
-8.
 
 
 
