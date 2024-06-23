@@ -25,6 +25,8 @@ We welcome professors to share recruitment information. Specific requirements an
 6. [SouthAmpton | 南安普顿大学](./Robotics/SouthAmpton.md)
 7. [KU Leuven | 鲁汶大学](./Robotics/Leuven.md)
 8. [the University of Genoa|热那亚大学](./Robotics/the%20University%20of%20Genoa.md)
+9. [the University of Amsterdam|阿姆斯特丹大学](./Robotics/Vrije_Universiteit_Amsterdam_Combined.md)
+10. [Oregon State University| 俄勒冈州立大学](./Robotics/Oregon%20State%20University.md)
 
 
 ## 计算机科学(Computer Science)
