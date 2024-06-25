@@ -33,9 +33,7 @@ We welcome professors to share recruitment information. Specific requirements an
 10. [Oregon State University| 俄勒冈州立大学](./Robotics/Oregon%20State%20University.md)    **DDL: Until filled**
 11. [INRIA](./Robotics/INRIA.md)    **DDL: Until filled**
 12. [NSERC-Canada](./Robotics/NSERC.md)    **DDL: Until filled**
-13. [Uppsala University, Sweden](./Robotics/UppsalaUniversity_PhD.md)
-
-
+13. [Uppsala University, Sweden](./Robotics/UppsalaUniversity_PhD.md)  **DDL: 12th Aug. 2024**
 
 
 
