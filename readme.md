@@ -39,7 +39,7 @@ We welcome professors to share recruitment information. Specific requirements an
 
 ## 计算机科学(Computer Science)
 1. [USF（南佛罗里达大学）](./Computer%20Science/USF.md)
-2. [UTS（悉尼科技大学）](./Computer%20Science/USF.md)
+2. [UTS（悉尼科技大学）](./Computer%20Science/UTS.md)
 3. [PKU（北京大学）](./Computer%20Science/PKU.md)
 4. [NJIT（新泽西理工学院）](./Computer%20Science/NJIT.md)
 
