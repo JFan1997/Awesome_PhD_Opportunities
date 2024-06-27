@@ -42,6 +42,7 @@ We welcome professors to share recruitment information. Specific requirements an
 2. [University of Technology Sydney](./Computer%20Science/UTS.md)
 3. [Peking University](./Computer%20Science/PKU.md)
 4. [New Jersey Institute of Technology](./Computer%20Science/NJIT.md)
+5. [South Dakota State University](./Computer%20Science/South%20Dakota%20State%20University.md)
 
 
 ## PostDoc
