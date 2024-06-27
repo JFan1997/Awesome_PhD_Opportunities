@@ -35,8 +35,8 @@ We welcome professors to share recruitment information. Specific requirements an
 12. [NSERC-Canada](./Robotics/NSERC.md)    **DDL: Until filled**
 13. [Uppsala University, Sweden](./Robotics/UppsalaUniversity_PhD.md)  **DDL: 12th Aug. 2024**
 14. [Delft University of Technology| 代尔夫特理工大学](./Robotics/Delft-tech.md)  **DDL: Unknown**
-15. [University of Luxembourg](./Robotics/SnT_PhD_Position_Announcement.md)
-16. [University of Genova](./Robotics/DRIM_PhD_Position_Announcement.md)
+15. [University of Luxembourg](./Robotics/SnT_PhD_Position_Announcement.md) **DDL: Unknown**
+16. [University of Genova](./Robotics/DRIM_PhD_Position_Announcement.md) **DDL: July 9th, 2024**
 
 ## 计算机科学(Computer Science)
 1. [USF（南佛罗里达大学）](./Computer%20Science/USF.md)
