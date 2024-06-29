@@ -39,6 +39,8 @@ We welcome professors to share recruitment information. Specific requirements an
 17. [QUT](./Robotics/QUT.md) **DDL: 31 July for International student**
 18. [Carleton University](./Robotics/Carleton%20University.md) 
 19. [University of Sannio](./Robotics/University%20of%20Sannio.md) 
+20. [Singapore University of Technology](./Robotics/Singapore%20University%20of%20Technology.md) 
+
 
 
 
