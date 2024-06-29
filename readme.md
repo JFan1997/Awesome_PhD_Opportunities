@@ -1,4 +1,4 @@
-# Awesome PhD opportunities (update at 6/22/2024)
+# Awesome PhD opportunities (update at 6/28/2024)
 
 This repository aims to advertise PhD recruitment opportunities to reduce the information gap and promote academic equality.
 
