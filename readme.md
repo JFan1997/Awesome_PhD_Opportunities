@@ -33,10 +33,12 @@ We welcome professors to share recruitment information. Specific requirements an
 11. [INRIA](./Robotics/INRIA.md)    **DDL: Until filled**
 12. [NSERC-Canada](./Robotics/NSERC.md)    **DDL: Until filled**
 13. [Uppsala University, Sweden](./Robotics/UppsalaUniversity_PhD.md)  **DDL: 12th Aug. 2024**
-14. [Delft University of Technology](./Robotics/Delft-tech.md)  **DDL: Unknown**
-15. [University of Luxembourg](./Robotics/SnT_PhD_Position_Announcement.md) **DDL: Unknown**
+14. [Delft University of Technology](./Robotics/Delft-tech.md) 
+15. [University of Luxembourg](./Robotics/SnT_PhD_Position_Announcement.md) 
 16. [University of Genova](./Robotics/DRIM_PhD_Position_Announcement.md) **DDL: July 9th, 2024**
 17. [QUT](./Robotics/QUT.md) **DDL: 31 July for International student**
+18. [QUT](./Robotics/Carleton%20University.md) 
+
 
 
 ## Computer Science
