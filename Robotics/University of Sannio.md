@@ -1,12 +1,3 @@
-Dear Sir/Madam,
-
-I would really appreciate it if you could consider posting the following advice for a PhD position at the University of Sannio on the robotics-worldwide mailing list.
-
-Best regards,  
-Carmen Del Vecchio
-
----
-
 ## PhD Position at University of Sannio
 
 The [University of Sannio](https://www.linkedin.com/school/universit%C3%A0-degli-studi-del-sannio-benevento/), Department of Engineering, Benevento, Italy, is offering a three-year PhD position in the “Automatic Control” curriculum focused on methods and techniques of computer vision applied to mobile robotics.
