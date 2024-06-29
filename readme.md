@@ -36,6 +36,8 @@ We welcome professors to share recruitment information. Specific requirements an
 14. [Delft University of Technology](./Robotics/Delft-tech.md)  **DDL: Unknown**
 15. [University of Luxembourg](./Robotics/SnT_PhD_Position_Announcement.md) **DDL: Unknown**
 16. [University of Genova](./Robotics/DRIM_PhD_Position_Announcement.md) **DDL: July 9th, 2024**
+17. [QUT](./Robotics/QUT.md) **DDL: 31 July for International student**
+
 
 ## Computer Science
 1. [University of South Florida](./Computer%20Science/USF.md)
