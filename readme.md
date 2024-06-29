@@ -37,7 +37,9 @@ We welcome professors to share recruitment information. Specific requirements an
 15. [University of Luxembourg](./Robotics/SnT_PhD_Position_Announcement.md) 
 16. [University of Genova](./Robotics/DRIM_PhD_Position_Announcement.md) **DDL: July 9th, 2024**
 17. [QUT](./Robotics/QUT.md) **DDL: 31 July for International student**
-18. [QUT](./Robotics/Carleton%20University.md) 
+18. [Carleton University](./Robotics/Carleton%20University.md) 
+19. [University of Sannio](./Robotics/University%20of%20Sannio.md) 
+
 
 
 
