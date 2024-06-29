@@ -45,6 +45,7 @@ We welcome professors to share recruitment information. Specific requirements an
 5. [South Dakota State University](./Computer%20Science/South%20Dakota%20State%20University.md)
 6. [Santa Clara University](./Computer%20Science/Santa%20Clara%20University.md)
 7. [University of Iceland](./Computer%20Science/University%20of%20Iceland.md) **DDL: August 6, 2024**
+8. [Tsinghua University](./Computer%20Science/Tsinghua.md)
 
 
 
