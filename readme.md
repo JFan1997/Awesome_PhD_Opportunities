@@ -1,4 +1,4 @@
-# Awesome PhD opportunities (update at 6/28/2024)
+# Awesome PhD opportunities (update weekly, Last time: 7/7/2024)
 
 This repository aims to advertise PhD recruitment opportunities to reduce the information gap and promote academic equality.
 
@@ -41,8 +41,8 @@ We welcome professors to share recruitment information. Specific requirements an
 19. [University of Sannio](./Robotics/University%20of%20Sannio.md) 
 20. [Singapore University of Technology and Design](./Robotics/Singapore%20University%20of%20Technology.md)   **DDL: July 14, 2024** 
 21. [Curtin University](./Robotics/Curtin%20University.md) 
-
-
+22. [Örebro University](./Robotics/orebro%20University.md)
+23. [University of Edinburgh](./Robotics/University%20of%20Edinburgh.md)
 
 
 ## Computer Science
@@ -54,6 +54,7 @@ We welcome professors to share recruitment information. Specific requirements an
 6. [Santa Clara University](./Computer%20Science/Santa%20Clara%20University.md)
 7. [University of Iceland](./Computer%20Science/University%20of%20Iceland.md) **DDL: August 6, 2024**
 8. [Tsinghua University](./Computer%20Science/Tsinghua.md)
+9. [University of Edinburgh](./Robotics/University%20of%20Edinburgh.md)
 
 
 
