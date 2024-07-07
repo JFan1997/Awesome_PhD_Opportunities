@@ -43,7 +43,7 @@ We welcome professors to share recruitment information. Specific requirements an
 21. [Curtin University](./Robotics/Curtin%20University.md) 
 22. [Örebro University](./Robotics/orebro%20University.md)
 23. [University of Edinburgh](./Robotics/University%20of%20Edinburgh.md)
-
+24. [University of Lisbon](./Robotics/University%20of%20Lisbon.md)
 
 ## Computer Science
 1. [University of South Florida](./Computer%20Science/USF.md)
