@@ -45,6 +45,18 @@ We welcome professors to share recruitment information. Specific requirements an
 23. [University of Edinburgh](./Robotics/University%20of%20Edinburgh.md)
 24. [University of Lisbon](./Robotics/University%20of%20Lisbon.md)
 
+**added at 7/16/2024**
+
+25. [Free University of Bolzano](./Robotics/Free%20University%20of%20Bolzano.md) **DDL: 11/07/2024**
+26. [BMW AI Robotics Lab](./Robotics/BMW%20AI%20Robotics%20Lab.md)
+27. [KIT-Cooperative Autonomous Systems (CAS) group](./Robotics/%20Karlsruhe%20Intitute%20of%20Technology-CAS.md)
+28. [TU-Delft](./Robotics/TU-Delft.md) [DDL: July 20]
+29. [TU-Delft2](./Robotics/TU%20Delft2.md)
+30. [South Demark University](./Robotics/South%20Demark%20University.md) [DDL: July 31, 2024]
+31. [University of Luxembourg](./Robotics/University%20of%20Luxembourg.md)
+32. [Swansea University, UK student only](./Robotics/Swansea.md)[DDL: 1 August 2024]
+33. [IRISA, Marco Tognon, Highly recommended](./Robotics/INRIA2.md)
+
 ## Computer Science
 1. [University of South Florida](./Computer%20Science/USF.md)
 2. [University of Technology Sydney](./Computer%20Science/UTS.md)
