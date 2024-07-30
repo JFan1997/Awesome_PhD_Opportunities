@@ -45,6 +45,7 @@ We welcome professors to share recruitment information. Specific requirements an
 23. [University of Edinburgh](./Robotics/University%20of%20Edinburgh.md)
 24. [University of Lisbon](./Robotics/University%20of%20Lisbon.md)
 
+
 **added at 7/16/2024**
 
 25. [Free University of Bolzano](./Robotics/Free%20University%20of%20Bolzano.md) **DDL: 11/07/2024**
@@ -56,6 +57,16 @@ We welcome professors to share recruitment information. Specific requirements an
 31. [University of Luxembourg](./Robotics/University%20of%20Luxembourg.md)
 32. [Swansea University, UK student only](./Robotics/Swansea.md)[DDL: 1 August 2024]
 33. [IRISA, Marco Tognon, Highly recommended](./Robotics/INRIA2.md)
+
+**added at 7/30/2024**
+
+34. [North Carolina A&T State University](./Robotics/North%20Carolina%20A&T%20State%20University.md)
+35. [Robotics Institute Germany](./Robotics/Robotics%20Institute%20Germany.md) [DDL: August 12]
+36. [Karlsruhe Institute of Technology](./Robotics/%20Karlsruhe%20Intitute%20of%20Technology-CAS.md)
+37. [University of Montpellier](./Robotics/University%20of%20Montpellier.md)
+38. [University of Bonn](./Robotics/University%20of%20Bonn.md)[DDL: August 11, 2024]
+
+
 
 ## Computer Science
 1. [University of South Florida](./Computer%20Science/USF.md)
