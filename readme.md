@@ -2,7 +2,7 @@
 
 This repository aims to advertise PhD recruitment opportunities to reduce the information gap and promote academic equality.
 
-We welcome professors to share recruitment information. Specific requirements and introductions can be contributed in Markdown format. You can subscribe by clicking Watch Button on the top right corner.
+We welcome professors to share recruitment information. Specific requirements and introductions can be contributed in Markdown format. **You can subscribe by clicking Watch Button on the top right corner.**
 
 ***Information collected from publicly available web pages. If your position has been filled or you prefer not to be listed, please contact me via email for removal.***
 
@@ -12,7 +12,7 @@ We welcome professors to share recruitment information. Specific requirements an
 
 此存储库旨在宣传博士生招聘机会，以缩小信息差距并促进学术平等。
 欢迎教授们分享招聘信息。具体的招生要求和介绍可以以Markdown格式提交。
-持续更新中... 可以点击右上角Watch按钮，即可在每次更新时收到消息推送。
+持续更新中... **可以点击右上角Watch按钮，即可在每次更新时收到消息推送。**
 
 ***信息收集于互联网公开页面。如果您的职位已经招满，或者您不希望被列入，请发邮件联系我删除。***
 
