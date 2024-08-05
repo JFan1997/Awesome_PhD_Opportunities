@@ -1,4 +1,4 @@
-# Awesome PhD opportunities (update weekly, Last time: 7/30/2024)
+# Awesome PhD opportunities (update weekly, Last time: 8/5/2024)
 
 This repository aims to advertise PhD recruitment opportunities to reduce the information gap and promote academic equality.
 
@@ -69,6 +69,8 @@ We welcome professors to share recruitment information. Specific requirements an
 36. [Karlsruhe Institute of Technology](./Robotics/%20Karlsruhe%20Intitute%20of%20Technology-CAS.md)
 37. [University of Montpellier](./Robotics/University%20of%20Montpellier.md)
 38. [University of Bonn](./Robotics/University%20of%20Bonn.md)[DDL: August 11, 2024]
+**added at 08/05/2024**
+39. [University of Southampton](./Robotics/SouthAmpton.md)
 
 
 
