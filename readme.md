@@ -72,6 +72,8 @@ We welcome professors to share recruitment information. Specific requirements an
 **added at 08/05/2024**
 39. [University of Southampton](./Robotics/SouthAmpton.md)
 
+**added at 08/14/2024**
+40. [University of TU Wien](./Robotics/TU%20Wien.md)
 
 
 ## Computer Science
