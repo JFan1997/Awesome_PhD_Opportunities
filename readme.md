@@ -25,55 +25,51 @@ We welcome professors to share recruitment information. Specific requirements an
 ## Robotics
 
 
-3. [Tallinn University of Technology, Centre for Biorobotics](./Robotics/Tallinn%20University%20of%20Technology.md)    
-4. ~~[SAPIENZA UNIVERSITY OF ROME](./Robotics/SAPIENZA%20UNIVERSITY%20OF%20ROME.md)~~
+1. [Tallinn University of Technology, Centre for Biorobotics](./Robotics/Tallinn%20University%20of%20Technology.md)    
+2. [SouthAmpton](./Robotics/SouthAmpton.md)    **DDL: Until filled**
+3. [KU Leuven](./Robotics/Leuven.md)    
 
-6. [SouthAmpton](./Robotics/SouthAmpton.md)    **DDL: Until filled**
-7. [KU Leuven](./Robotics/Leuven.md)    
-
-9. [the University of Amsterdam](./Robotics/Vrije_Universiteit_Amsterdam_Combined.md)  
-10. [Oregon State University](./Robotics/Oregon%20State%20University.md)    **DDL: Until filled**
-11. [INRIA](./Robotics/INRIA.md)    **DDL: Until filled**
-12. [NSERC-Canada](./Robotics/NSERC.md)    **DDL: Until filled**
-14. [Delft University of Technology](./Robotics/Delft-tech.md) 
-15. [University of Luxembourg](./Robotics/SnT_PhD_Position_Announcement.md) 
-18. [Carleton University](./Robotics/Carleton%20University.md) 
-19. [University of Sannio](./Robotics/University%20of%20Sannio.md) 
-21. [Curtin University](./Robotics/Curtin%20University.md) 
-22. [Örebro University](./Robotics/orebro%20University.md)
-23. [University of Edinburgh](./Robotics/University%20of%20Edinburgh.md)
-24. [University of Lisbon](./Robotics/University%20of%20Lisbon.md)
+4. [the University of Amsterdam](./Robotics/Vrije_Universiteit_Amsterdam_Combined.md)  
+5. [Oregon State University](./Robotics/Oregon%20State%20University.md)    **DDL: Until filled**
+6. [INRIA](./Robotics/INRIA.md)    **DDL: Until filled**
+7. [NSERC-Canada](./Robotics/NSERC.md)    **DDL: Until filled**
+8. [Delft University of Technology](./Robotics/Delft-tech.md) 
+9. [University of Luxembourg](./Robotics/SnT_PhD_Position_Announcement.md) 
+10. [Carleton University](./Robotics/Carleton%20University.md) 
+11. [University of Sannio](./Robotics/University%20of%20Sannio.md) 
+12. [Curtin University](./Robotics/Curtin%20University.md) 
+13. [Örebro University](./Robotics/orebro%20University.md)
+14. [University of Edinburgh](./Robotics/University%20of%20Edinburgh.md)
+15. [University of Lisbon](./Robotics/University%20of%20Lisbon.md)
 
 
 **added at 7/16/2024**
 
-25. [Free University of Bolzano](./Robotics/Free%20University%20of%20Bolzano.md) **DDL: 11/07/2024**
-26. [BMW AI Robotics Lab](./Robotics/BMW%20AI%20Robotics%20Lab.md)
-27. [KIT-Cooperative Autonomous Systems (CAS) group](./Robotics/%20Karlsruhe%20Intitute%20of%20Technology-CAS.md)
-28. [TU-Delft](./Robotics/TU-Delft.md) [DDL: July 20]
-29. [TU-Delft2](./Robotics/TU%20Delft2.md)
-
-31. [University of Luxembourg](./Robotics/University%20of%20Luxembourg.md)
-
-33. [IRISA, Marco Tognon, Highly recommended](./Robotics/INRIA2.md)
+16. [Free University of Bolzano](./Robotics/Free%20University%20of%20Bolzano.md) **DDL: 11/07/2024**
+17. [BMW AI Robotics Lab](./Robotics/BMW%20AI%20Robotics%20Lab.md)
+18. [KIT-Cooperative Autonomous Systems (CAS) group](./Robotics/%20Karlsruhe%20Intitute%20of%20Technology-CAS.md)
+19. [TU-Delft](./Robotics/TU-Delft.md) [DDL: July 20]
+20. [TU-Delft2](./Robotics/TU%20Delft2.md)
+21. [University of Luxembourg](./Robotics/University%20of%20Luxembourg.md)
+22. [IRISA, Marco Tognon, Highly recommended](./Robotics/INRIA2.md)
 
 **added at 7/30/2024**
 
-34. [North Carolina A&T State University](./Robotics/North%20Carolina%20A&T%20State%20University.md)
-36. [Karlsruhe Institute of Technology](./Robotics/%20Karlsruhe%20Intitute%20of%20Technology-CAS.md)
-37. [University of Montpellier](./Robotics/University%20of%20Montpellier.md)
+23. [North Carolina A&T State University](./Robotics/North%20Carolina%20A&T%20State%20University.md)
+24. [Karlsruhe Institute of Technology](./Robotics/%20Karlsruhe%20Intitute%20of%20Technology-CAS.md)
+25. [University of Montpellier](./Robotics/University%20of%20Montpellier.md)
 
 **added at 08/05/2024**
-39. [University of Southampton](./Robotics/SouthAmpton.md)
+26. [University of Southampton](./Robotics/SouthAmpton.md)
 
 **added at 08/14/2024**
-40. [University of TU Wien](./Robotics/TU%20Wien.md)
+27. [University of TU Wien](./Robotics/TU%20Wien.md)
 
 **added at 08/22/2024**
-41. [Indiana University-Bloomington](./Robotics/indiana-bloomington.md)
-42. [San Diego State University](./Robotics/San%20Diego%20State%20University.md)
-43. [Robotics Institute Germany (RIG)](./Robotics/Robotics%20Institute%20Germany%20(RIG).md)
-44. [KTH Royal Institute of Technology](./Robotics/KTH%20Royal%20Institute%20of%20Technology.md)
+28. [Indiana University-Bloomington](./Robotics/indiana-bloomington.md)
+29. [San Diego State University](./Robotics/San%20Diego%20State%20University.md)
+30. [Robotics Institute Germany (RIG)](./Robotics/Robotics%20Institute%20Germany%20(RIG).md)
+31. [KTH Royal Institute of Technology](./Robotics/KTH%20Royal%20Institute%20of%20Technology.md)
 
 
 
@@ -90,6 +86,8 @@ We welcome professors to share recruitment information. Specific requirements an
 **added at 08/22/2024**
 10. [University of Zurich](./Computer%20Science/University%20of%20Zurich.md)
 11. [IT University of Copenhagen](./Computer%20Science/IT%20University%20of%20Copenhagen.md)
+12. ~~[SAPIENZA UNIVERSITY OF ROME](./Robotics/SAPIENZA%20UNIVERSITY%20OF%20ROME.md)~~
+
 
  
 ## Expired but can Referenced
