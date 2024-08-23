@@ -86,9 +86,6 @@ We welcome professors to share recruitment information. Specific requirements an
 **added at 08/22/2024**
 10. [University of Zurich](./Computer%20Science/University%20of%20Zurich.md)
 11. [IT University of Copenhagen](./Computer%20Science/IT%20University%20of%20Copenhagen.md)
-12. ~~[SAPIENZA UNIVERSITY OF ROME](./Robotics/SAPIENZA%20UNIVERSITY%20OF%20ROME.md)~~
-
-
  
 ## Expired but can Referenced
 1. ~~[Istituto Italiano di Tecnologia, Claudio Semini, Claudio Semini](./Robotics/IIT-1.md) **DDL: 9/JULY/2024**~~ 
@@ -103,6 +100,9 @@ We welcome professors to share recruitment information. Specific requirements an
 10. ~~[Singapore University of Technology and Design](./Robotics/Singapore%20University%20of%20Technology.md)   **DDL: July 14, 2024**~~ 
 11. ~~[IRI](./Robotics/IRI.md)**DDL: July 10th, 2024**~~
 12. ~~[Istituto Italiano di Tecnologia, Lorenzo Natale, Lorenzo Natale](./Robotics/IIT-2.md) **DDL: 9/JULY/2024**~~
+13. ~~[SAPIENZA UNIVERSITY OF ROME](./Robotics/SAPIENZA%20UNIVERSITY%20OF%20ROME.md)~~
+
+
 
 ## Star History
 
