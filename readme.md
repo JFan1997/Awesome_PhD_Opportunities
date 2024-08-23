@@ -48,7 +48,6 @@ We welcome professors to share recruitment information. Specific requirements an
 16. [Free University of Bolzano](./Robotics/Free%20University%20of%20Bolzano.md) **DDL: 11/07/2024**
 17. [BMW AI Robotics Lab](./Robotics/BMW%20AI%20Robotics%20Lab.md)
 18. [KIT-Cooperative Autonomous Systems (CAS) group](./Robotics/%20Karlsruhe%20Intitute%20of%20Technology-CAS.md)
-19. [TU-Delft](./Robotics/TU-Delft.md) [DDL: July 20]
 20. [TU-Delft2](./Robotics/TU%20Delft2.md)
 21. [University of Luxembourg](./Robotics/University%20of%20Luxembourg.md)
 22. [IRISA, Marco Tognon, Highly recommended](./Robotics/INRIA2.md)
@@ -103,7 +102,9 @@ We welcome professors to share recruitment information. Specific requirements an
 10. ~~[Singapore University of Technology and Design](./Robotics/Singapore%20University%20of%20Technology.md)   **DDL: July 14, 2024**~~ 
 11. ~~[IRI](./Robotics/IRI.md)**DDL: July 10th, 2024**~~
 12. ~~[Istituto Italiano di Tecnologia, Lorenzo Natale, Lorenzo Natale](./Robotics/IIT-2.md) **DDL: 9/JULY/2024**~~
-13. ~~[SAPIENZA UNIVERSITY OF ROME](./Robotics/SAPIENZA%20UNIVERSITY%20OF%20ROME.md)~~
+13. ~~[SAPIENZA UNIVERSITY OF ROME](./Robotics/SAPIENZA%20UNIVERSITY%20OF%20ROME.md)~~~~
+14. ~~[TU-Delft](./Robotics/TU-Delft.md) [DDL: July 20]~~
+
 
 
 
