@@ -60,12 +60,15 @@ We welcome professors to share recruitment information. Specific requirements an
 25. [University of Montpellier](./Robotics/University%20of%20Montpellier.md)
 
 **added at 08/05/2024**
+
 26. [University of Southampton](./Robotics/SouthAmpton.md)
 
 **added at 08/14/2024**
+
 27. [University of TU Wien](./Robotics/TU%20Wien.md)
 
 **added at 08/22/2024**
+
 28. [Indiana University-Bloomington](./Robotics/indiana-bloomington.md)
 29. [San Diego State University](./Robotics/San%20Diego%20State%20University.md)
 30. [Robotics Institute Germany (RIG)](./Robotics/Robotics%20Institute%20Germany%20(RIG).md)
