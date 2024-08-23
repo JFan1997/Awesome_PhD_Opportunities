@@ -75,6 +75,13 @@ We welcome professors to share recruitment information. Specific requirements an
 **added at 08/14/2024**
 40. [University of TU Wien](./Robotics/TU%20Wien.md)
 
+**added at 08/22/2024**
+41. [Indiana University-Bloomington](./Robotics/indiana-bloomington.md)
+42. [San Diego State University](./Robotics/San%20Diego%20State%20University.md)
+43. [Robotics Institute Germany (RIG)](./Robotics/Robotics%20Institute%20Germany%20(RIG).md)
+44. [KTH Royal Institute of Technology](./Robotics/KTH%20Royal%20Institute%20of%20Technology.md)
+
+
 
 ## Computer Science
 1. [University of South Florida](./Computer%20Science/USF.md)
@@ -86,12 +93,10 @@ We welcome professors to share recruitment information. Specific requirements an
 7. [University of Iceland](./Computer%20Science/University%20of%20Iceland.md) **DDL: August 6, 2024**
 8. [Tsinghua University](./Computer%20Science/Tsinghua.md)
 9. [University of Edinburgh](./Robotics/University%20of%20Edinburgh.md)
+**added at 08/22/2024**
+10. [University of Zurich](./Computer%20Science/University%20of%20Zurich.md)
+11. [IT University of Copenhagen](./Computer%20Science/IT%20University%20of%20Copenhagen.md)
 
-
-
-## PostDoc
-1. [Clermont Auvergne INP Clermont (France)](./PostDoc-Robotics/Clermont_Auvergne_INP.md)
-2. [Oregon State University| 俄勒冈州立大学](./PostDoc-Robotics/OregonStateUniversity_Postdoc.md)
 
 
 ## Star History
