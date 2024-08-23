@@ -102,7 +102,7 @@ We welcome professors to share recruitment information. Specific requirements an
 10. ~~[Singapore University of Technology and Design](./Robotics/Singapore%20University%20of%20Technology.md)   **DDL: July 14, 2024**~~ 
 11. ~~[IRI](./Robotics/IRI.md)**DDL: July 10th, 2024**~~
 12. ~~[Istituto Italiano di Tecnologia, Lorenzo Natale, Lorenzo Natale](./Robotics/IIT-2.md) **DDL: 9/JULY/2024**~~
-13. ~~[SAPIENZA UNIVERSITY OF ROME](./Robotics/SAPIENZA%20UNIVERSITY%20OF%20ROME.md)~~~~
+13. ~~[SAPIENZA UNIVERSITY OF ROME](./Robotics/SAPIENZA%20UNIVERSITY%20OF%20ROME.md)~~
 14. ~~[TU-Delft](./Robotics/TU-Delft.md) [DDL: July 20]~~
 
 
