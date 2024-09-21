@@ -77,7 +77,10 @@ We welcome professors to share recruitment information. Specific requirements an
 31. [The Hong Kong Polytechnic University ](./Robotics/The%20Hong%20Kong%20Polytechnic%20University.md)
 32. [**LS2N** in Nantes (France)](./Robotics/Ecole%20Centrale%20NantesLS2N.md)
 33. [KIT](./Robotics/KIT.md)
-
+34. [Kennesaw State University](./Robotics/KSU.md)
+35. [DePaul University](./Robotics/DePaul%20University.md)
+36. [University of Bolzano](./Robotics/University%20of%20Bolzano.md)
+37. 
 
 
 ## Computer Science
