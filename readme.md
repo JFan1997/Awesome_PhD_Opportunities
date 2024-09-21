@@ -1,4 +1,4 @@
-# Awesome PhD opportunities (update weekly, Last time: 08/23/2024)
+# Awesome PhD opportunities (update weekly, Last time: 09/21/2024)
 
 This repository aims to advertise PhD recruitment opportunities to reduce the information gap and promote academic equality.
 
@@ -73,6 +73,11 @@ We welcome professors to share recruitment information. Specific requirements an
 30. [Robotics Institute Germany (RIG)](./Robotics/Robotics%20Institute%20Germany%20(RIG).md)
 31. [KTH Royal Institute of Technology](./Robotics/KTH%20Royal%20Institute%20of%20Technology.md)
 
+**added at 09/21/2024**
+31. [The Hong Kong Polytechnic University ](./Robotics/The%20Hong%20Kong%20Polytechnic%20University.md)
+32. [**LS2N** in Nantes (France)](./Robotics/Ecole%20Centrale%20NantesLS2N.md)
+33. [KIT](./Robotics/KIT.md)
+
 
 
 ## Computer Science
@@ -82,13 +87,19 @@ We welcome professors to share recruitment information. Specific requirements an
 4. [New Jersey Institute of Technology](./Computer%20Science/NJIT.md)
 5. [South Dakota State University](./Computer%20Science/South%20Dakota%20State%20University.md)
 6. [Santa Clara University](./Computer%20Science/Santa%20Clara%20University.md)
-7. [University of Iceland](./Computer%20Science/University%20of%20Iceland.md) **DDL: August 6, 2024**
 8. [Tsinghua University](./Computer%20Science/Tsinghua.md)
 9. [University of Edinburgh](./Robotics/University%20of%20Edinburgh.md)
+
 **added at 08/22/2024**
 10. [University of Zurich](./Computer%20Science/University%20of%20Zurich.md)
 11. [IT University of Copenhagen](./Computer%20Science/IT%20University%20of%20Copenhagen.md)
  
+**added at 09/21/2024**
+32. [University of Alberta](./Computer%20Science/University%20of%20Albert.md)
+33. []
+
+
+
 ## Expired but can Referenced
 1. ~~[Istituto Italiano di Tecnologia, Claudio Semini, Claudio Semini](./Robotics/IIT-1.md) **DDL: 9/JULY/2024**~~ 
 2. ~~[Swansea University, UK student only](./Robotics/Swansea.md)[DDL: 1 August 2024]~~
@@ -104,7 +115,7 @@ We welcome professors to share recruitment information. Specific requirements an
 12. ~~[Istituto Italiano di Tecnologia, Lorenzo Natale, Lorenzo Natale](./Robotics/IIT-2.md) **DDL: 9/JULY/2024**~~
 13. ~~[SAPIENZA UNIVERSITY OF ROME](./Robotics/SAPIENZA%20UNIVERSITY%20OF%20ROME.md)~~
 14. ~~[TU-Delft](./Robotics/TU-Delft.md) [DDL: July 20]~~
-
+15. ~~[University of Iceland](./Computer%20Science/University%20of%20Iceland.md) **DDL: August 6, 2024**~~
 
 
 
