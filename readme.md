@@ -74,13 +74,13 @@ We welcome professors to share recruitment information. Specific requirements an
 31. [KTH Royal Institute of Technology](./Robotics/KTH%20Royal%20Institute%20of%20Technology.md)
 
 **added at 09/21/2024**
+
 31. [The Hong Kong Polytechnic University ](./Robotics/The%20Hong%20Kong%20Polytechnic%20University.md)
 32. [**LS2N** in Nantes (France)](./Robotics/Ecole%20Centrale%20NantesLS2N.md)
 33. [KIT](./Robotics/KIT.md)
 34. [Kennesaw State University](./Robotics/KSU.md)
 35. [DePaul University](./Robotics/DePaul%20University.md)
 36. [University of Bolzano](./Robotics/University%20of%20Bolzano.md)
-37. 
 
 
 ## Computer Science
@@ -94,16 +94,19 @@ We welcome professors to share recruitment information. Specific requirements an
 9. [University of Edinburgh](./Robotics/University%20of%20Edinburgh.md)
 
 **added at 08/22/2024**
+
 10. [University of Zurich](./Computer%20Science/University%20of%20Zurich.md)
 11. [IT University of Copenhagen](./Computer%20Science/IT%20University%20of%20Copenhagen.md)
  
 **added at 09/21/2024**
-32. [University of Alberta](./Computer%20Science/University%20of%20Albert.md)
+
+12. [University of Alberta](./Computer%20Science/University%20of%20Albert.md)
 
 
 
 **added at 01/02/2025**
-32. [Technion](./Computer%20Science/Technion.md)
+
+13. [Technion](./Computer%20Science/Technion.md)
 
 
 
