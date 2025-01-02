@@ -1,4 +1,4 @@
-# Awesome PhD opportunities (update weekly, Last time: 09/21/2024)
+# Awesome PhD opportunities (update weekly, Last time: 01/02/2025)
 
 This repository aims to advertise PhD recruitment opportunities to reduce the information gap and promote academic equality.
 
@@ -99,7 +99,13 @@ We welcome professors to share recruitment information. Specific requirements an
  
 **added at 09/21/2024**
 32. [University of Alberta](./Computer%20Science/University%20of%20Albert.md)
-33. []
+
+
+
+**added at 01/02/2025**
+32. [Technion](./Computer%20Science/Technion.md)
+
+
 
 
 
